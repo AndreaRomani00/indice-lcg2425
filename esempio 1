@@ -1,0 +1,9 @@
+<!-- definiamo il nostro primo esempio -->
+ <!DOCTYPE html>
+ <head>
+    <title>TITOLO della pagina d'esempio </title>
+ </head>
+ <body>
+    <h1>ESEMPIO di PAGINA html</h1>
+    <p>bla bla bla bla bla </p>
+ </body>
